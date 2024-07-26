@@ -20,6 +20,26 @@ Gson
 BottomNavigation
 Anim
 
+
+You can find my Firebase Realtime Database settings in the "database" JSON file within the folder. You can either import it through Firebase or use those settings as a reference to create your own database.
+I hope you'll like this project..
+
+
+![Ekran görüntüsü 2024-07-26 122904](https://github.com/user-attachments/assets/3d0c0469-86d4-4738-9897-aa17d3f3c614)
+![Ekran görüntüsü 2024-07-26 122929](https://github.com/user-attachments/assets/91e6e96e-c976-4a56-b45a-ca77260758d5)
+
+
+DATABASE RULES (BASIC)
+![Ekran görüntüsü 2024-07-26 122948](https://github.com/user-attachments/assets/388f258c-819e-4c7a-9c05-7d7c14e5cfe3)
+
+
+STORAGE RULES
+![Ekran görüntüsü 2024-07-26 123028](https://github.com/user-attachments/assets/1d917099-66b5-44d3-8123-6b071e1a71fb)
+
+
+
+And screenshots're here!
+
 Intro:
 ![intro](https://github.com/user-attachments/assets/6c5cf73a-865d-46f1-979d-55ba08a9e5b8)
 
@@ -52,8 +72,6 @@ Log-out (AlertDialog):
 ![logout](https://github.com/user-attachments/assets/42eb20dc-36c6-47df-921d-6cccf60bbd89)
 
 And Trailer:
-
-
 https://github.com/user-attachments/assets/23d5e3da-d1b6-4353-8519-128d05042f1b
 
 
