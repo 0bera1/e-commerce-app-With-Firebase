@@ -1,0 +1,228 @@
+{
+  "Banner": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/banner1.png?alt=media&token=989a12d9-b08c-4147-8c32-34b3aff443de"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/banner4.png?alt=media&token=30a87609-e0f2-470d-97d5-22ef3c0185b4"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/banner2.png?alt=media&token=202dfb2d-9f5d-462c-94a7-0d71bb206847"
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/banner6.png?alt=media&token=79910f75-7fd5-418a-8798-0644f15bfbe7"
+    }
+  ],
+  "Category": [
+    {
+      "id": 0,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/cat1.png?alt=media&token=c7985e7c-60e9-42ef-8c31-07abfab810c7",
+      "title": "Adidas"
+    },
+    {
+      "id": 1,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/cat2.png?alt=media&token=4815629f-cc92-4635-bf7e-ca9adeb52650",
+      "title": "Nike"
+    },
+    {
+      "id": 2,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/cat3.png?alt=media&token=5c79d384-9149-4efc-bc1e-fb9e32fe2e49",
+      "title": "Puma"
+    },
+    {
+      "id": 3,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/cat4.png?alt=media&token=9acc316f-8726-496d-9ca0-2a90a9b6239c",
+      "title": "Skechers"
+    },
+    {
+      "id": 4,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/cat5.png?alt=media&token=3800e00f-2cd2-40b6-bac4-b482cf4f090a",
+      "title": "Reebok"
+    },
+    {
+      "id": 5,
+      "picUrl": "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/cat6.png?alt=media&token=2be93296-967b-4506-bb38-0c38fea2bb52",
+      "title": "Lacoste"
+    }
+  ],
+  "Items": [
+    {
+      "brand": "Nike",
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "fav": true,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes1.png?alt=media&token=962c2101-2330-4209-bffb-53f4d7af8aaf",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n1.png?alt=media&token=d2bbddb7-70cd-4d08-ac4e-5be07071012d",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n2.png?alt=media&token=3af90469-2eb1-4874-9055-3f5eaeaadd11",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n3.png?alt=media&token=54299f06-162f-4874-84be-714311f5ad0a",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n4.png?alt=media&token=39a7e257-6f4b-498f-b502-d823579bf7cb",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n5.png?alt=media&token=01e70928-68d1-49b2-9a72-88511c3bb5f0",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n6.png?alt=media&token=078687a3-d125-4263-93cc-5e0b8df70766"
+      ],
+      "price": 35,
+      "rating": 4.6,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Pink singlet"
+    },
+    {
+      "brand": "Skechers",
+      "description": "This light and airy pink shirt is perfect for warm weather. Made from 100% cotton, it's breathable and comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes2.png?alt=media&token=54ee7257-ae13-4b6d-affd-e4b1855560f3"
+      ],
+      "price": 55,
+      "rating": 4.1,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Jean Coat"
+    },
+    {
+      "brand": "Reebok",
+      "description": "This cozy orange cable knit sweater is perfect for winter weather. Made from 100% wool, it's warm and stylish. It features a classic crewneck collar and a relaxed fit.",
+      "fav": true,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes3.png?alt=media&token=f805970e-d58b-40f2-aa7f-501ee4fc3636"
+      ],
+      "price": 75,
+      "rating": 4.5,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Orange Knit Sweater"
+    },
+    {
+      "brand": "Lacoste",
+      "description": "This stylish red and black plaid shirt is perfect for any occasion. Made from a soft cotton blend, it's comfortable to wear. It features a classic button-down collar and a relaxed fit.",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes4.png?alt=media&token=f9a43ba7-3b9b-487c-bcd0-966d5880d0cf"
+      ],
+      "price": 40,
+      "rating": 4.2,
+      "size": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Plaid shirt"
+    },
+    {
+      "brand": "Adidas",
+      "description": "this style special one. Its air and comfortable. made from a soft coddon blend, it's comfortable to wear.",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes5-removebg-preview%20(1).png?alt=media&token=a0aa9b3b-34aa-44a1-a09d-4d6156b55b29"
+      ],
+      "price": 38,
+      "rating": 4.1,
+      "size": [
+        "38",
+        "39",
+        "42"
+      ],
+      "title": "Bape dame"
+    },
+    {
+      "brand": "Adidas",
+      "description": "this style special one. Its air and comfortable. made from a soft coddon blend, it's comfortable to wear. This shoes like ocean.",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes6-removebg-preview%20(1).png?alt=media&token=6930892e-299d-4fd0-b5b4-a03bc90ca59a"
+      ],
+      "price": 42,
+      "rating": 3.7,
+      "size": [
+        "39",
+        "41",
+        "42",
+        "44"
+      ],
+      "title": "Yeezy casual"
+    },
+    {
+      "brand": "Adidas",
+      "description": "If you wanna be super star, its for you. This style special one. Its air and comfortable. made from a soft coddon blend, it's comfortable to wear.",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/shoes7-removebg-preview%20(1).png?alt=media&token=8e3e6d62-7878-4721-9b33-d9fc8431aea5"
+      ],
+      "price": 68,
+      "rating": 4.4,
+      "size": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "44",
+        "45"
+      ],
+      "title": "Adidas superstar"
+    },
+    {
+      "brand": "Puma",
+      "description": "Inspired by terrace culture, PUMA Club combines beloved football DNA with a modern court silhouette to offer a casual yet refined look.",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/p1-removebg-preview.png?alt=media&token=207d4d10-a658-4451-8d50-41d1eeaf1319",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/p2-removebg-preview.png?alt=media&token=e1ee6ee1-a5d6-430e-b7d7-265f910ab277",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/p3-removebg-preview.png?alt=media&token=0a20a159-72bf-4405-980a-80c6e3508542",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/p4-removebg-preview.png?alt=media&token=09759dde-1b2e-4b1d-8850-6c53f952223d"
+      ],
+      "price": 55,
+      "rating": 4.6,
+      "size": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "title": "Club Marshmallow"
+    },
+    {
+      "brand": "Nike",
+      "description": "Nike Dunk Low Retro SU24 ",
+      "fav": false,
+      "picUrl": [
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n21-removebg-preview%20(1).png?alt=media&token=e2944d76-8947-4deb-ba14-76635609be1c",
+        "https://firebasestorage.googleapis.com/v0/b/e-shop-1aeea.appspot.com/o/n22-removebg-preview%20(1).png?alt=media&token=eb5146a7-8bb4-4ff8-a514-7b54fe6a6c20"
+      ],
+      "price": 68,
+      "rating": 4,
+      "size": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "title": "Dunk Low Retro SU24 "
+    }
+  ]
+}
