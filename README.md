@@ -2,23 +2,23 @@ A prototype of an e-commerce application. With minor adjustments, it has become 
 
 Technologies I used:
 
-DataBinding
-MVVM
-ViewBinding
-LiveData
-Coroutines
-Navigation Component
-Glide
-Picasso
-Firebase (auth, storage, realtime database)
-Adapter
-AlertDialog
-RecyclerView
-Activities
-Fragment
-Gson
-BottomNavigation
-Anim
+* DataBinding
+* MVVM
+* ViewBinding
+* LiveData
+* Coroutines
+* Navigation Component
+* Glide
+* Picasso
+* Firebase (auth, storage, realtime database)
+* Adapter
+* AlertDialog
+* RecyclerView
+* Activities
+* Fragment
+* Gson
+* BottomNavigation
+* Anim
 
 
 You can find my Firebase Realtime Database settings in the "database" JSON file within the folder. You can either import it through Firebase or use those settings as a reference to create your own database.
