@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">E_shopTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_tittle"><font color="#455A64">Step in your</font> <font color="#79A879">life\n to color !</font></string>
+    <string name="intro_text">Browse the latest styles from top brands\nGet personalized recommendations\nEnjoy, fast, free shipping</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="official_brand">Official Brand</string>
+    <string name="see_all">See all</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="explorer">Explorer</string>
+    <string name="price">$</string>
+    <string name="title">Title</string>
+    <string name="Coded_by_bera">© Coded by Bera</string>
+    <string name="example_email_com">example@email.com</string>
+    <string name="e_mail">E-mail</string>
+    <string name="doesn_t_have_an_account_yet">Doesn\'t have an account yet?</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="login">Login</string>
+    <string name="fpassword"><font color="#FF79A879">Forgot your password ?</font> <font color="#E4EDE4">click here !</font></string>
+    <string name="signup">Sign-Up</string>
+    <string name="haveu"><font color="#FF79A879">Have you an account?</font> <font color="#E4EDE4">click and login !</font></string>
+    <string name="select_size">Select Size</string>
+    <string name="my_cart">My Cart</string>
+    <string name="your_cart_is_empty">Your cart is empty!</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total_price">Total Price</string>
+    <string name="check_out">Check Out</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My Order</string>
+    <string name="whist_list">Whist List</string>
+    <string name="log_out">Log Out</string>
+    <string name="my_profile">My Profile</string>
+    <string name="change_password">Change Password</string>
+    <string name="change_language">Change Language</string>
+    <string name="whistlist">Whistlist</string>
+    <string name="language">Directly related to the usage language of your device.</string>
+    <string name="dashboard">Dashboard</string>
+
+
+</resources>

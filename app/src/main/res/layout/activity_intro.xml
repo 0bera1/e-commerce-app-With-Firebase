@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg4"
+    tools:context=".ui.activity.IntroActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/likeWhite"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/likeWhite"
+            android:orientation="vertical">
+
+            <pl.droidsonroids.gif.GifImageView
+                android:id="@+id/imageView4"
+                android:layout_width="324dp"
+                android:layout_height="433dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="32dp"
+                android:src="@drawable/intro_logo2"/>
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:elevation="5dp"
+                android:fontFamily="@font/kanit_light"
+                android:text="@string/intro_tittle"
+                android:textAlignment="center"
+                android:textSize="28sp" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:elevation="5dp"
+                android:fontFamily="@font/kanit_light"
+                android:lineSpacingExtra="10dp"
+                android:text="@string/intro_text"
+                android:textAlignment="center"
+                android:textColor="@color/introButtonStroke" />
+
+            <Button
+                android:id="@+id/get_startedButton"
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="62dp"
+                android:backgroundTint="@color/introButton"
+                android:elevation="4dp"
+
+                android:fontFamily="@font/kanit_light"
+                android:shadowColor="@color/introButtonStroke"
+                android:shadowRadius="2"
+                android:text="@string/let_s_get_started"
+                android:textSize="15sp"
+                app:cornerRadius="10dp"
+                app:iconPadding="5dp"
+                 />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

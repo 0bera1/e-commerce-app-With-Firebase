@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#E4EDE4</color>
+    <color name="bg2">#3D553D</color>
+    <color name="bg3">#EFEFEF</color>
+    <color name="bg4">#C9463D</color>
+    <color name="bg5">#FF5E35</color>
+    <color name="hinttext">#A8B4AEAE</color>
+    <color name="text">#A27E75</color>
+    <color name="registerbg">#F2EFC4</color>
+    <color name="registerbg2">#93BFA3</color>
+    <color name="registerbutton">#334F70</color>
+    <color name="introtext1">#6033ba</color>
+    <color name="gray">#A8B4AE</color>
+    <color name="yellow">#fcbf49</color>
+    <color name="dahsBg">#BF330136</color>
+    <color name="ligthgray">#BFD9DDDA</color>
+    <color name="likeWhite">#F5F4E0</color>
+    <color name="introtextB">#2C4282</color>
+    <color name="introButton">#79A879</color>
+    <color name="introButtonStroke">#455A64</color>
+    <color name="itemprice_shadow">#131f4e</color>
+
+
+
+
+
+
+
+</resources>
