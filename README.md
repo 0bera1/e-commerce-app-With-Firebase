@@ -1,4 +1,4 @@
-#E-Commerce App
+# E-Commerce App
 
 A prototype of an e-commerce application. With minor adjustments, it has become a project that can serve any sector. In the right hands and with the right people, it can provide excellent service and has great potential.
 
